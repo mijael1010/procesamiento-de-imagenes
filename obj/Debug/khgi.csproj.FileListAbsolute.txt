@@ -1,0 +1,7 @@
+C:\Users\estudiante\source\repos\khgi\khgi\bin\Debug\khgi.exe.config
+C:\Users\estudiante\source\repos\khgi\khgi\bin\Debug\khgi.exe
+C:\Users\estudiante\source\repos\khgi\khgi\bin\Debug\khgi.pdb
+C:\Users\estudiante\source\repos\khgi\khgi\obj\Debug\khgi.csproj.AssemblyReference.cache
+C:\Users\estudiante\source\repos\khgi\khgi\obj\Debug\khgi.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\khgi\khgi\obj\Debug\khgi.exe
+C:\Users\estudiante\source\repos\khgi\khgi\obj\Debug\khgi.pdb
